@@ -252,7 +252,7 @@ function Couple() {
                                 D/O <strong>Janab K. Md. Farooq Sahab,</strong> Goldsmith
                             </p> */}
               <p className="mt-2 mt-lg-3">
-                Grand D/O <strong>Janab Mehboob Sahab,</strong>(late)
+                Grand D/O <strong>Janab Mehboob Sahab</strong>(late)
               </p>
               {/* <p className="mt-1 mt-lg-2">
                                 Grand D/O Janab{" "}
