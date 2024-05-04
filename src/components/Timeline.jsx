@@ -50,62 +50,59 @@ function Timeline() {
     //   </div>
     // </section>
 
-        <section id="timeline">
-            <Particles
-                id="timeline-ts-particles"
-                init={particlesInit}
-                options={timelineParticlesConfig}
-            ></Particles>
-            <div className="multi-timeline">
-                <h1 className="inshaallaah">Inshaallaah ...</h1>
-                <div className="wrapper">
-                    {/* shukrana included */}
-                     <>
-                         <div className="row">
-                             <div className="col-lg-6 left" data-aos="fade-down">
-                                 <h1>Shukrana</h1>
-                                 <p>
-                                     On Wednesday, 29<sup>th</sup> May, 2024.
-                                     <br />
-                                     29<sup>th</sup> Zil-Qaida, 1445 Hijri,
-                                     <br />
-                                     Time: 09:00 PM.
-                                 </p>
+    <section id="timeline">
+      <Particles
+        id="timeline-ts-particles"
+        init={particlesInit}
+        options={timelineParticlesConfig}
+      ></Particles>
+      <div className="multi-timeline">
+        <h1 className="inshaallaah">Inshaallaah ...</h1>
+        <div className="wrapper">
+          {/* shukrana included */}
+          <>
+            <div className="row">
+              <div className="col-lg-6 left" data-aos="fade-down">
+                <h1>Shukrana</h1>
+                <p>
+                  On Wednesday, 29<sup>th</sup> May, 2024.
+                  <br />
+                  20<sup>th</sup> Zil-Qaida, 1445 Hijri,
+                  <br />
+                  Time: 09:00 PM.
+                </p>
 
-                                 <h2>Venue:</h2>
-                                 <p>
-                                     NSJ Function Hall,
-                                     <br /> Arts College Road,
-                                     <br /> Tirumala Nagar,
-                                     <br /> Adoni.
-                                 </p>
-                             </div>
+                <h2>Venue:</h2>
+                <p>
+                  NSJ Function Hall,
+                  <br /> Arts College Road,
+                  <br /> Tirumala Nagar,
+                  <br /> Adoni.
+                </p>
+              </div>
 
-                             <div
-                                 className="col-lg-6 right"
-                                 data-aos="fade-down"
-                             ></div>
-                         </div>
-                         <div className="row">
-                             <div
-                                 className="col-lg-6 left next"
-                                 data-aos="fade-down"
-                                 data-aos-offset="200"
-                             ></div>
-                             <div
-                                 className="col-lg-6 right next"
-                                 data-aos="fade-down"
-                                 data-aos-offset="200"
-                             >
-                                 <h1>Nikaah</h1>
-                                 <p>
-                                     On Thursday, 30<sup>th</sup> May, 2023,
-                                     <br />
-                                     21<sup>st</sup> Zil-Qaida, 1445 Hijri,
-                                     <br /> Time: 12:15 PM.
-                                 </p>
+              <div className="col-lg-6 right" data-aos="fade-down"></div>
+            </div>
+            <div className="row">
+              <div
+                className="col-lg-6 left next"
+                data-aos="fade-down"
+                data-aos-offset="200"
+              ></div>
+              <div
+                className="col-lg-6 right next"
+                data-aos="fade-down"
+                data-aos-offset="200"
+              >
+                <h1>Nikaah</h1>
+                <p>
+                  On Thursday, 30<sup>th</sup> May, 2023,
+                  <br />
+                  21<sup>st</sup> Zil-Qaida, 1445 Hijri,
+                  <br /> Time: 12:15 PM.
+                </p>
 
-                             {/* <h2>Nikah At:</h2>
+                {/* <h2>Nikah At:</h2>
                                  <p>
                                      Bebadal Jung Masjid,
                                      <br /> Adoni.
@@ -119,51 +116,51 @@ function Timeline() {
                                      <br /> Adoni.
                                  </p> */}
 
-                                 <h2>Venue:</h2>
-                                 <p>
-                                     NSJ Function Hall,
-                                     <br /> Arts College Road,
-                                     <br /> Tirumala Nagar,
-                                     <br /> Adoni.
-                                 </p>
-                             </div>
-                         </div>
-                         <div className="row">
-                             <div
-                                 className="col-lg-6 left next"
-                                 data-aos="fade-down"
-                                 data-aos-offset="200"
-                                 data-aos-delay="100"
-                             >
-                                 <h1>Valima</h1>
+                <h2>Venue:</h2>
+                <p>
+                  NSJ Function Hall,
+                  <br /> Arts College Road,
+                  <br /> Tirumala Nagar,
+                  <br /> Adoni.
+                </p>
+              </div>
+            </div>
+            <div className="row">
+              <div
+                className="col-lg-6 left next"
+                data-aos="fade-down"
+                data-aos-offset="200"
+                data-aos-delay="100"
+              >
+                <h1>Valima</h1>
 
-                                 <p>
-                                     On Saturday, 01<sup>st</sup> June, 2023,
-                                     <br />
-                                     23<sup>st</sup> Zil-Qaida, 1445 Hijri,
-                                     <br />
-                                     Time: 02:00 PM.
-                                 </p>
+                <p>
+                  On Saturday, 01<sup>st</sup> June, 2023,
+                  <br />
+                  23<sup>rd</sup> Zil-Qaida, 1445 Hijri,
+                  <br />
+                  Time: 02:00 PM.
+                </p>
 
-                                 <h2>Venue:</h2>
-                                 <p>
-                                     International Function Hall,
-                                     <br /> SKD Colony - 3<sup>rd</sup> Road,
-                                     {/* <br /> Tirumala Nagar, */}
-                                     <br /> Adoni.
-                                 </p>
-                             </div>
-                             <div
-                                 className="col-lg-6 right next"
-                                 data-aos="fade-down"
-                                 data-aos-offset="200"
-                                 data-aos-delay="100"
-                             ></div>
-                         </div>
-                    </>                
+                <h2>Venue:</h2>
+                <p>
+                  International Function Hall,
+                  <br /> SKD Colony - 3<sup>rd</sup> Road,
+                  {/* <br /> Tirumala Nagar, */}
+                  <br /> Adoni.
+                </p>
+              </div>
+              <div
+                className="col-lg-6 right next"
+                data-aos="fade-down"
+                data-aos-offset="200"
+                data-aos-delay="100"
+              ></div>
+            </div>
+          </>
 
-                    {/* shukrana excluded */}
-                     {/* <>
+          {/* shukrana excluded */}
+          {/* <>
                         <div className="row">
                             <div
                                 className="col-lg-6 left next"
@@ -234,9 +231,9 @@ function Timeline() {
                             </div>
                         </div>
                     </> */}
-                </div>
-            </div>
-        </section>
+        </div>
+      </div>
+    </section>
   );
 }
 
