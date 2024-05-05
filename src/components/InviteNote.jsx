@@ -15,7 +15,7 @@ function InviteNote() {
               <h5 className="address mb-3">
                   H.NO.: 2/683/1, Teacher's Colony,
                   <br /> Adoni, Kurnool Dist.,
-                  <br /> Andhra Pradesh - 518 301.
+                  <br /> Andhra Pradesh - 518 302.
               </h5>
               <p className="address">
                   Contact: <br />
