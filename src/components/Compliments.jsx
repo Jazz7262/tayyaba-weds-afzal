@@ -9,7 +9,7 @@ function Compliments() {
       <h5>Alhaj Mohammed Irfan Shaikh, Adoni Fabrics,</h5>
       <h5>Mohammed Rizwan Shaikh, Adoni Constructions,</h5>
       <h5>N. Farooq, Councilor - Gooty,</h5>
-      <h5>Alhaj Mohammed Irfan Shaikh, Image Boutique,</h5>
+      <h5>Alhaj M. Mohammed Ghouse, Image Boutique,</h5>
       <h5>M. Zubair Basha, Image Boutique,</h5>
       <h5>Near & Dear - Relatives & Friends.</h5>
     </section>
