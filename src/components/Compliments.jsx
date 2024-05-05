@@ -11,7 +11,7 @@ function Compliments() {
       <h5>N. Farooq, Councilor - Gooty,</h5>
       <h5>Alhaj M. Mohammed Ghouse, Image Boutique,</h5>
       <h5>M. Zubair Basha, Image Boutique,</h5>
-      <h5>Near & Dear - Relatives & Friends.</h5>
+      <h5>Attar Family's Relatives & Friends.</h5>
     </section>
   );
 }
