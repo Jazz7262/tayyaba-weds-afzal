@@ -96,7 +96,7 @@ function Timeline() {
               >
                 <h1>Nikaah</h1>
                 <p>
-                  On Thursday, 30<sup>th</sup> May, 2023,
+                  On Thursday, 30<sup>th</sup> May, 2024,
                   <br />
                   21<sup>st</sup> Zil-Qaida, 1445 Hijri,
                   <br /> Time: 12:15 PM.
@@ -135,9 +135,9 @@ function Timeline() {
                 <h1>Valima</h1>
 
                 <p>
-                  On Saturday, 01<sup>st</sup> June, 2023,
+                  On Saturday, 01<sup>st</sup> June, 2024,
                   <br />
-                  23<sup>rd</sup> Zil-Qaida, 1445 Hijri,
+                  24<sup>rd</sup> Zil-Qaida, 1445 Hijri,
                   <br />
                   Time: 02:00 PM.
                 </p>
